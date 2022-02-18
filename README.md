@@ -115,5 +115,5 @@ Result
    1. В GitHub нажимаем на main репозиторий > нажимаем на branches > выбираем ветку Checklists и нажимаем на нее > нажимаем на Compare & Pull Request > base:main compare:Bag_Reports > Create pull request
    2. Либо, после переноса изменений ветки CheckLists во внешний репозиторий, заходим на GitHub >  открываем репозиторий main и можем увидеть сообщение "CheckLists had reecnt pushes 1 minute ago" > нажимаем на Campare & Pull request >  base: main compare: CheckLists > create a pull request> 
 10. Синхронизировать Внешнюю и Локальную ветки Main: 
-   git checkout main 
-   git pull 
+ -  git checkout main 
+ - git pull 
