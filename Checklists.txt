@@ -1,0 +1,10 @@
+ID
+Project 
+Description
+Status 
+Equivalence classes
+Priority
+Verification
+Result
+
+
